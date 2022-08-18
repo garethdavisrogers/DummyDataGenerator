@@ -1,0 +1,12 @@
+{
+    "name": "dummy-data-generator",
+    "version": "1.0.0",
+    "description": "A CSV random data generator for devs.  Customize your request to mimic real data for your table!",
+    "author": "Cleisthenes",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1",
+        "dotenv": "^16.0.1",
+        "pg": "^8.7.3"
+    }
+}
